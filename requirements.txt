@@ -1,0 +1,10 @@
+langchain-groq
+langchain-chroma
+langchain-text-splitters
+langchain-core 
+chromadb
+groq
+sentence-transformers
+deepeval 
+pytest
+python-dotenv 
