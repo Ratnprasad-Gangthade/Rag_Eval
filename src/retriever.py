@@ -8,7 +8,7 @@ from langchain_chroma import Chroma
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 
-load_dotenv()
+load_dotenv(override=True)
 
 DATA_DIR = "data"
 DB_DIR = "chroma_store"
